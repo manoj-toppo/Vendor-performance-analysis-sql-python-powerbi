@@ -106,4 +106,3 @@ Effective inventory and sales management are critical in the retail sector. This
 - Improve marketing for underperforming vendors
 
 ---
-<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
