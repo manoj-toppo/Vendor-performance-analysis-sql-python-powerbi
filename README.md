@@ -59,18 +59,18 @@ Effective inventory and sales management are critical in the retail sector. This
 <h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
 
 **Negative or Zero Values Detected:**
-- Gross Profit: Min -52,002.78 (loss-making sales)
-- Profit Margin: Min -∞ (sales at zero or below cost)
+- Gross Profit: Min -169922.89 (loss-making sales)
+- Profit Margin: Min -22118.649518 (sales at zero or below cost)
 - Unsold Inventory: Indicating slow-moving stock
 
 **Outliers Identified:**
-- High Freight Costs (up to 257K)
+- High Freight Costs (up to 2,57,032.07)
 - Large Purchase/Actual Prices
-
+  
 **Correlation Analysis:**
-- Weak between Purchase Price & Profit
-- Strong between Purchase Qty & Sales Qty (0.999)
-- Negative between Profit Margin & Sales Price (-0.179)
+- corrleation between Purchase Price & Profit
+- Strong between Purchase Qty & Sales Qty (0.71)
+- Negative between Profit Margin & Sales Price (-0.06)
 
 ---
 <h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
@@ -80,9 +80,9 @@ Effective inventory and sales management are critical in the retail sector. This
 3. **Bulk Purchasing Impact**: 72% cost savings per unit in large orders
 4. **Inventory Turnover**: $2.71M worth of unsold inventory
 5. **Vendor Profitability**:
-   - High Vendors: Mean Margin = 31.17%
-   - Low Vendors: Mean Margin = 41.55%
-6. **Hypothesis Testing**: Statistically significant difference in profit margins → distinct vendor strategies
+   - High Vendors: Mean Margin = 42.00%
+   - Low Vendors: Mean Margin = 40.98%
+6. **Hypothesis Testing**: Fail to Reject H₀: No significant difference in profit margins.
 
 ---
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
