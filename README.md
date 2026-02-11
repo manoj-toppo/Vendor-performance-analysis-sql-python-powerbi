@@ -92,8 +92,6 @@ Effective inventory and sales management are critical in the retail sector. This
   - Inventory Turnover
   - Bulk Purchase Savings
   - Performance Heatmaps
-
-![Vendor Performance Dashboard](images/dashboard.png)
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
